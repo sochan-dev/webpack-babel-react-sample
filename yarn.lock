@@ -1797,11 +1797,6 @@ punycode@^2.1.0:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-raect@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/raect/-/raect-1.0.4.tgz#2ce8368a1c0d6a3044030b1b5d3f2bdb8ec761d4"
-  integrity sha512-qr0j0LPsi/+eyWlzyUiJWUyV6vuTIfEi230u1RmmiISe5uEoTNlp1rxgdq+xW2XxYtIv1RmZ/1GM+Ss5zDZIfA==
-
 randombytes@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/randombytes/-/randombytes-2.1.0.tgz#df6f84372f0270dc65cdf6291349ab7a473d4f2a"
@@ -1816,6 +1811,13 @@ react-dom@^18.1.0:
   dependencies:
     loose-envify "^1.1.0"
     scheduler "^0.22.0"
+
+react@^18.1.0:
+  version "18.1.0"
+  resolved "https://registry.yarnpkg.com/react/-/react-18.1.0.tgz#6f8620382decb17fdc5cc223a115e2adbf104890"
+  integrity sha512-4oL8ivCz5ZEPyclFQXaNksK3adutVS8l2xzZU0cqEFrE9Sb7fC0EFK5uEk74wIreL1DERyjvsU915j1pcT2uEQ==
+  dependencies:
+    loose-envify "^1.1.0"
 
 rechoir@^0.7.0:
   version "0.7.1"
